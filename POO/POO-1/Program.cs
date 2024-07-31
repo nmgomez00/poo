@@ -41,8 +41,8 @@ class Program
     static void Main()
     {
         FormaGeometrica rectangulo = new Rectangulo(4,6);
-        Console.WriteLine("Area del rectangulo: " + rectangulo.CalcularArea());
+        Console.WriteLine($"Area del rectangulo: {rectangulo.CalcularArea()}cm");//literal template c#
         FormaGeometrica circulo = new Circulo(4);
-        Console.WriteLine("Area del circulo es: " + circulo.CalcularArea());
+        Console.WriteLine($"Area del circulo es: {circulo.CalcularArea()}cm");
     }
 }

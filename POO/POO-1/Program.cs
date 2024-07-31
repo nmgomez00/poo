@@ -45,4 +45,6 @@ class Program
         FormaGeometrica circulo = new Circulo(4);
         Console.WriteLine($"Area del circulo es: {circulo.CalcularArea()}cm");
     }
+    //agregar mas formas cuadrado, triangulo
+    //clase abstracta poligonos y dentro de cada cosa, con sus subclacificaciones, pitagoras etc...
 }

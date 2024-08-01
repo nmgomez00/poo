@@ -1,0 +1,15 @@
+C:\Users\ngomez\source\repos\nmgomez00\poo\POO\Empleado\bin\Debug\net6.0\Empleado.exe
+C:\Users\ngomez\source\repos\nmgomez00\poo\POO\Empleado\bin\Debug\net6.0\Empleado.deps.json
+C:\Users\ngomez\source\repos\nmgomez00\poo\POO\Empleado\bin\Debug\net6.0\Empleado.runtimeconfig.json
+C:\Users\ngomez\source\repos\nmgomez00\poo\POO\Empleado\bin\Debug\net6.0\Empleado.dll
+C:\Users\ngomez\source\repos\nmgomez00\poo\POO\Empleado\bin\Debug\net6.0\Empleado.pdb
+C:\Users\ngomez\source\repos\nmgomez00\poo\POO\Empleado\obj\Debug\net6.0\Empleado.csproj.AssemblyReference.cache
+C:\Users\ngomez\source\repos\nmgomez00\poo\POO\Empleado\obj\Debug\net6.0\Empleado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ngomez\source\repos\nmgomez00\poo\POO\Empleado\obj\Debug\net6.0\Empleado.AssemblyInfoInputs.cache
+C:\Users\ngomez\source\repos\nmgomez00\poo\POO\Empleado\obj\Debug\net6.0\Empleado.AssemblyInfo.cs
+C:\Users\ngomez\source\repos\nmgomez00\poo\POO\Empleado\obj\Debug\net6.0\Empleado.csproj.CoreCompileInputs.cache
+C:\Users\ngomez\source\repos\nmgomez00\poo\POO\Empleado\obj\Debug\net6.0\Empleado.dll
+C:\Users\ngomez\source\repos\nmgomez00\poo\POO\Empleado\obj\Debug\net6.0\refint\Empleado.dll
+C:\Users\ngomez\source\repos\nmgomez00\poo\POO\Empleado\obj\Debug\net6.0\Empleado.pdb
+C:\Users\ngomez\source\repos\nmgomez00\poo\POO\Empleado\obj\Debug\net6.0\Empleado.genruntimeconfig.cache
+C:\Users\ngomez\source\repos\nmgomez00\poo\POO\Empleado\obj\Debug\net6.0\ref\Empleado.dll

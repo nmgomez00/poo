@@ -4,7 +4,7 @@ abstract class FormaGeometrica//no se instancia
 {
     public abstract double CalcularArea();//no se la que va ser, se tiene que implementar
 }
-class Rectangulo: FormaGeometrica
+class Rectangulo : FormaGeometrica
 {
     public double Largo { get; set; }
     public double Ancho { get; set; }
@@ -40,7 +40,7 @@ class Program
 {
     static void Main()
     {
-        FormaGeometrica rectangulo = new Rectangulo(4,6);
+        FormaGeometrica rectangulo = new Rectangulo(4, 6);
         Console.WriteLine($"Area del rectangulo: {rectangulo.CalcularArea()}cm");//literal template c#
         FormaGeometrica circulo = new Circulo(4);
         Console.WriteLine($"Area del circulo es: {circulo.CalcularArea()}cm");

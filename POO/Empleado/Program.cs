@@ -16,9 +16,9 @@ abstract class Empleado
 
     public abstract double CalcularSalario();
 }
-class EmpleadoTiempoCompleto  : Empleado
+class EmpleadoTiempoCompleto : Empleado
 {
-    public EmpleadoTiempoCompleto (string nombre, int salario) : base(nombre, salario)
+    public EmpleadoTiempoCompleto(string nombre, int salario) : base(nombre, salario)
     {
 
     }
@@ -27,9 +27,9 @@ class EmpleadoTiempoCompleto  : Empleado
         return Salario;
     }
 }
-class  EmpleadoMedioTiempo  : Empleado
+class EmpleadoMedioTiempo : Empleado
 {
-    public  EmpleadoMedioTiempo (string nombre, int salario) : base(nombre, salario)
+    public EmpleadoMedioTiempo(string nombre, int salario) : base(nombre, salario)
     {
 
     }
@@ -44,8 +44,8 @@ class Program
     static void Main()
     {
 
-        Empleado EmpleadoTiempoCompleto  = new EmpleadoTiempoCompleto ("Nicolas", 500000);
-        Empleado  EmpleadoMedioTiempo  = new  EmpleadoMedioTiempo ("pepe", 500000);
+        Empleado EmpleadoTiempoCompleto = new EmpleadoTiempoCompleto("Nicolas", 500000);
+        Empleado EmpleadoMedioTiempo = new EmpleadoMedioTiempo("pepe", 500000);
         Console.WriteLine($"Salario de {EmpleadoTiempoCompleto.Nombre}:{EmpleadoTiempoCompleto.CalcularSalario()}");
         Console.WriteLine($"Salario de { EmpleadoMedioTiempo.Nombre}:{ EmpleadoMedioTiempo.CalcularSalario()}");
         Console.ReadLine();

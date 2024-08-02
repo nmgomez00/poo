@@ -1,0 +1,15 @@
+C:\Users\ngomez\source\repos\nmgomez00\poo\POO\Estudiante\bin\Debug\net6.0\Estudiante.exe
+C:\Users\ngomez\source\repos\nmgomez00\poo\POO\Estudiante\bin\Debug\net6.0\Estudiante.deps.json
+C:\Users\ngomez\source\repos\nmgomez00\poo\POO\Estudiante\bin\Debug\net6.0\Estudiante.runtimeconfig.json
+C:\Users\ngomez\source\repos\nmgomez00\poo\POO\Estudiante\bin\Debug\net6.0\Estudiante.dll
+C:\Users\ngomez\source\repos\nmgomez00\poo\POO\Estudiante\bin\Debug\net6.0\ref\Estudiante.dll
+C:\Users\ngomez\source\repos\nmgomez00\poo\POO\Estudiante\bin\Debug\net6.0\Estudiante.pdb
+C:\Users\ngomez\source\repos\nmgomez00\poo\POO\Estudiante\obj\Debug\net6.0\Estudiante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ngomez\source\repos\nmgomez00\poo\POO\Estudiante\obj\Debug\net6.0\Estudiante.AssemblyInfoInputs.cache
+C:\Users\ngomez\source\repos\nmgomez00\poo\POO\Estudiante\obj\Debug\net6.0\Estudiante.AssemblyInfo.cs
+C:\Users\ngomez\source\repos\nmgomez00\poo\POO\Estudiante\obj\Debug\net6.0\Estudiante.csproj.CoreCompileInputs.cache
+C:\Users\ngomez\source\repos\nmgomez00\poo\POO\Estudiante\obj\Debug\net6.0\Estudiante.dll
+C:\Users\ngomez\source\repos\nmgomez00\poo\POO\Estudiante\obj\Debug\net6.0\ref\Estudiante.dll
+C:\Users\ngomez\source\repos\nmgomez00\poo\POO\Estudiante\obj\Debug\net6.0\Estudiante.pdb
+C:\Users\ngomez\source\repos\nmgomez00\poo\POO\Estudiante\obj\Debug\net6.0\Estudiante.genruntimeconfig.cache
+C:\Users\ngomez\source\repos\nmgomez00\poo\POO\Estudiante\obj\Debug\net6.0\Estudiante.csproj.AssemblyReference.cache

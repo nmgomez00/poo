@@ -12,7 +12,7 @@ abstract class DisposivoElectronico//no se instancia
     {
         Marca = marca;
     }
-   
+
     public abstract void Encender();//no se la que va ser, se tiene que implementar
 
 }
@@ -34,7 +34,7 @@ class Radio : DisposivoElectronico
     {
 
     }
-    public override void Encender() 
+    public override void Encender()
     {
         Console.WriteLine($"La radio {Marca} está encendida.");
     }

@@ -10,8 +10,8 @@
         _precio = precio;
         _cantidadEnStock = cantidadEnStock;
     }
-    
-     public string Nombre
+
+    public string Nombre
     {
         get { return _nombre; }
         set { _nombre = value; }
@@ -21,15 +21,15 @@
         get { return _precio; }
         set { _precio = value; }
     }
-    
-    public int CantidadEnStock 
-    { 
+
+    public int CantidadEnStock
+    {
         get { return _cantidadEnStock; }
-        private set{ _cantidadEnStock = value; } 
+        private set { _cantidadEnStock = value; }
     }
     public void ActualizarCantidadEnStock(int cantidad)
     {
-        if(CantidadEnStock + cantidad >= 0)
+        if (CantidadEnStock + cantidad >= 0)
         {
             CantidadEnStock += cantidad;
             Console.WriteLine($"Cantidad en Stock actualizado: {CantidadEnStock}");
@@ -48,7 +48,7 @@ class Program
         Producto producto = new Producto("Laptop", 1200, 50);
         Console.WriteLine($"Nombre:{producto.Nombre}");
         Console.WriteLine($"Precio:{producto.Nombre}");
-        Console.WriteLine($"Cantidad en Stock:{producto.Cantidad}");
+        // Console.WriteLine($"Cantidad en Stock:{producto.Cantidad}");
 
         producto.ActualizarCantidadEnStock(20);
         producto.ActualizarCantidadEnStock(-70);

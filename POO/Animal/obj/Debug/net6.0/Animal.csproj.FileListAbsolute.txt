@@ -1,0 +1,14 @@
+C:\Users\ngomez\source\repos\nmgomez00\poo\POO\Animal\bin\Debug\net6.0\Animal.exe
+C:\Users\ngomez\source\repos\nmgomez00\poo\POO\Animal\bin\Debug\net6.0\Animal.deps.json
+C:\Users\ngomez\source\repos\nmgomez00\poo\POO\Animal\bin\Debug\net6.0\Animal.runtimeconfig.json
+C:\Users\ngomez\source\repos\nmgomez00\poo\POO\Animal\bin\Debug\net6.0\Animal.dll
+C:\Users\ngomez\source\repos\nmgomez00\poo\POO\Animal\bin\Debug\net6.0\ref\Animal.dll
+C:\Users\ngomez\source\repos\nmgomez00\poo\POO\Animal\bin\Debug\net6.0\Animal.pdb
+C:\Users\ngomez\source\repos\nmgomez00\poo\POO\Animal\obj\Debug\net6.0\Animal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ngomez\source\repos\nmgomez00\poo\POO\Animal\obj\Debug\net6.0\Animal.AssemblyInfoInputs.cache
+C:\Users\ngomez\source\repos\nmgomez00\poo\POO\Animal\obj\Debug\net6.0\Animal.AssemblyInfo.cs
+C:\Users\ngomez\source\repos\nmgomez00\poo\POO\Animal\obj\Debug\net6.0\Animal.csproj.CoreCompileInputs.cache
+C:\Users\ngomez\source\repos\nmgomez00\poo\POO\Animal\obj\Debug\net6.0\Animal.dll
+C:\Users\ngomez\source\repos\nmgomez00\poo\POO\Animal\obj\Debug\net6.0\ref\Animal.dll
+C:\Users\ngomez\source\repos\nmgomez00\poo\POO\Animal\obj\Debug\net6.0\Animal.pdb
+C:\Users\ngomez\source\repos\nmgomez00\poo\POO\Animal\obj\Debug\net6.0\Animal.genruntimeconfig.cache

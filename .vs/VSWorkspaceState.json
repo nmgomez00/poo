@@ -2,10 +2,13 @@
   "ExpandedNodes": [
     "",
     "\\POO",
+    "\\POO\\Animal",
+    "\\POO\\CuentaBancaria",
     "\\POO\\POO-1",
     "\\POO\\POO-4",
     "\\POO\\POO2",
     "\\POO\\POO3"
   ],
+  "SelectedNode": "\\POO",
   "PreviewInSolutionExplorer": false
 }
